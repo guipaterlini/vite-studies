@@ -8,7 +8,7 @@ export function Comment() {
       <img src="https://github.com/guipaterlini.png" alt="" />
 
       <div className={styles.commentBox}>
-        <div className={styles.comentContent}>
+        <div className={styles.commentContent}>
           <header>
             <div className={styles.authorAndTime}>
               <strong>Diego Fernandes</strong>
@@ -21,7 +21,7 @@ export function Comment() {
             </div>
 
             <button title="Deletar comentário">
-              <Trash size={20} />
+              <Trash size={24} />
             </button>
           </header>
 
@@ -29,7 +29,7 @@ export function Comment() {
         </div>
         <footer>
           <button>
-            <ThumbsUp /> Apludir <span>20</span>
+            <ThumbsUp /> Aplaudir <span>20</span>
           </button>
         </footer>
       </div>
