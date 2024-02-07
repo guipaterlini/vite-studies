@@ -4,7 +4,7 @@ O Ignite Feed é uma aplicação em ReactJS que simula interações de posts, pe
 
 ## Visualização do Projeto
 
-Você pode visualizar o Ignite Feed em funcionamento [aqui](link_para_o_projeto).
+Você pode visualizar o Ignite Feed em funcionamento [aqui](https://guipaterlini.github.io/vite-studies/).
 
 ## Objetivos de estudo do projeto:
 
